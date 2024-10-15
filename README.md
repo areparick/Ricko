@@ -1,4 +1,4 @@
-# Astro Starter Kit: Portfolio
+# sai Starter Kit: Portfolio
 
 ```sh
 npm create astro@latest -- --template portfolio
